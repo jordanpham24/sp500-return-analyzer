@@ -1,4 +1,4 @@
-# S&P 500 Stack Return Analyzer
+# S&P 500 Stock Return Analyzer
 
 An end to end stock return analysis using Python, yfinance, and pandas. Pulls 5 years of real market data and computes financial metrics.
 
